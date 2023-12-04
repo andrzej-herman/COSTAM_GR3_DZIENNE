@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Cyberpunk 2077",
+    "category": "Akcja",
+    "descrption": "Cyberpunk 2077 to rozgrywająca się w otwartym świecie przygoda, której akcja toczy się w Night City, megalopolis rządzonym przez obsesyjną pogoń za władzą, sławą i przerabianiem własnego ciała. Nazywasz się V i musisz zdobyć jedyny w swoim rodzaju implant — klucz do nieśmiertelności.",
+    "price": 199,
+    "platform": [
+      "PC",
+      "PS5",
+      "X-Box"
+    ],
+    "poster": "https://prod-api.mediamarkt.pl/api/images/gallery_545_400/thumbnails/images/23/23604353/pl-pc-front-rgb-packshot.jpg",
+    "images": [
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Football Manager 2024",
+    "category": "Sportowe",
+    "descrption": "Cyberpunk 2077 to rozgrywająca się w otwartym świecie przygoda, której akcja toczy się w Night City, megalopolis rządzonym przez obsesyjną pogoń za władzą, sławą i przerabianiem własnego ciała. Nazywasz się V i musisz zdobyć jedyny w swoim rodzaju implant — klucz do nieśmiertelności.",
+    "price": 199,
+    "platform": [
+      "PC",
+      "PS5",
+      "X-Box"
+    ],
+    "poster": "https://prod-api.mediamarkt.pl/api/images/gallery_545_400/thumbnails/images/23/23604353/pl-pc-front-rgb-packshot.jpg",
+    "images": [
+      "",
+      ""
+    ]
+  }
+]
+
+
+
+
+
+
+
+// CATEGORIES
+// Akcja
+// Strategia
+// Sportowe
+// Symulatory
+// Przygodowe
+
+// PLATFORMS
+// PC
+// PS5/PS4
+// X-Box
+// Nintendo
